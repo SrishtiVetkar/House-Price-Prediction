@@ -1,2 +1,3 @@
 # House-Price-Prediction
-Internship Project
+The House Price Prediction project is a machine learning–based application that predicts house prices using features such as area, location, number of bedrooms (BHK), bathrooms, balconies, parking spaces, furnishing status, property type, and age of the house. The dataset contains 1000 entries with 10 columns. The system performs data preprocessing, encoding categorical features, exploratory data analysis (EDA), and trains multiple regression models including Linear Regression, Decision Tree Regressor, and Random Forest Regressor. Model performance is evaluated using R² Score and Root Mean Squared Error (RMSE). Linear Regression was selected as the best-performing model. This project helps buyers, sellers, and real estate agencies make informed decisions based on predicted prices.
+
